@@ -18,5 +18,5 @@ function download(){
     //it starts the script again every 5 seconds so you have plenty of time to download the files.
     };
 
-download();
+download(); https://app.snapchat.com/dmd/memories?uid=0f3d3deb-1ac4-4c1c-9259-a1bad311541c&sid=8C4958E1-24EF-4308-9944-236B6D045ECD&mid=8C4958E1-24EF-4308-9944-236B6D045ECD&ts=1607406605522&proxy=true&sig=a0310a714c0697fbd870d7fb47a79b9787aaea216e5c61f8887a44ea61607ae5
 
